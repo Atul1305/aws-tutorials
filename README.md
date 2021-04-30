@@ -10,4 +10,5 @@
 
 * <ins>**DZONE Series**</ins> <br> https://dzone.com/users/2951752/jawadhasan.html
 * Multi Cloud Architecture <br/> https://dzone.com/articles/building-a-hybrid-multi-cloud-event-mesh-demo-with?fromrel=true
+* Server-less Architecture <br/> https://dzone.com/articles/what-does-serverless-architecture-hold
 
