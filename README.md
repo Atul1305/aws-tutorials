@@ -7,6 +7,6 @@
 * AWS Basics: Bastion Hosts and NAT </br> https://dzone.com/articles/aws-basics-bastian-hosts-and-nat
 
 
-* **Series** <br> https://dzone.com/users/2951752/jawadhasan.html
+* **DZONE Series** <br> https://dzone.com/users/2951752/jawadhasan.html
 * Multi Cloud Architecture <br/> https://dzone.com/articles/building-a-hybrid-multi-cloud-event-mesh-demo-with?fromrel=true
 
