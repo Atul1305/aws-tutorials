@@ -5,3 +5,7 @@
 * VPC Basics <br/> https://dzone.com/articles/amazon-virtual-private-cloud-vpc-basics
 * EC2 Bascis <br/> https://dzone.com/articles/aws-elastic-compute-cloud-ec2-basics
 
+
+
+* Multi Cloud Architecture <br/> https://dzone.com/articles/building-a-hybrid-multi-cloud-event-mesh-demo-with?fromrel=true
+
