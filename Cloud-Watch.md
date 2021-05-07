@@ -12,7 +12,7 @@ It can monitor things like
     * Storage Gateways
     * Cloudfront
 <br>  
-Metrics that it monitors.
+Metrics that it monitors.<br>
   * CPU
   * Network
   * Disk
