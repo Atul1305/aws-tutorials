@@ -8,7 +8,7 @@ EC2 provides virtual computing environments called “instances.”
 **2. What Are Some of the Security Best Practices for Amazon EC2?** <br>
 Security best practices for Amazon EC2 include using Identity and Access Management (IAM) to control access to AWS resources; restricting access by only allowing trusted hosts or networks to access ports on an instance; only opening up those permissions you require, and disabling password-based logins for instances launched from your AMI.
 
-**3. What is Amazon S3? **<br>
+**3. What is Amazon S3? ** <br>
 S3 is short for Simple Storage Service, and Amazon S3 is the most supported storage platform available. S3 is object storage that can store and retrieve any amount of data from anywhere. Despite that versatility, it is practically unlimited as well as cost-effective because it is storage available on demand. In addition to these benefits, it offers unprecedented levels of durability and availability. Amazon S3 helps to manage data for cost optimization, access control, and compliance. 
 
 **4. Can S3 Be Used with EC2 Instances, and If Yes, How?** <br>
