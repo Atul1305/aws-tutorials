@@ -7,4 +7,5 @@ Command start with aws. You can perform all actions you can do through AWS Conso
 * Roles are easier to manage.
 * Roles can be assigned to any EC2 instance after it is created using both  the console and commandline.
 * Roles are universal - Can be used in any region.
-*  
+
+**Bootstrap Scripts**
