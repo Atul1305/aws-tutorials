@@ -17,4 +17,6 @@ Metrics that it monitors.<br>
   * Network
   * Disk
   * Status Check
+
+We can also create alarm on different metrics and can send a notification.
  
