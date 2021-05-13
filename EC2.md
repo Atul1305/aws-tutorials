@@ -13,7 +13,9 @@ It is of four types. <br>
 Used to get info about an EC2 instance. <br>
 It is available on http, can provide details like ipv4 address, security groups etc. <br>
 curl http://ip/latest/meta-data/local-<metrics you want> <br>
- 
+<br>
+Security groups are stateful, it means if you open an inbound port so same port will be opened as outbound and vice versa.
+
  <br>
  
  Types of placement groups. <br>
