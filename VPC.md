@@ -5,9 +5,22 @@
 
 // TODO: VPC Architecture Image to come
 
-Subnet
+Subnets
     - Multiple subnets can be created inside a VPC.
     - Virtual private gateway helps to make a bridge between your datacenter or PC.
+    - 
+
+Ip Addresses
+    - IPv4 : Each IP address is made of four octets of 8 bits each.
+    - IPv6 : 128 bits.
+    - Within a VPC, certain IP Addresses are reserved so can;t be usable.
+
+IP CIDR Range :
+    - Its a number that represent range of IP's in a network.
+    - eg. 10.0.0.0/16 -> It represent first 16 bits are fixed.
+    - So, the Ip ranges for above CIDR range -> 10.0.0.0 -> 10.0.255.255
+    - CIDR ranges are immutable. If you want to change IP range add a new CIDR.
+    - CIDR range of VPC is limited by AWS which is in range of /16 - /28
 
 **VPC Components**
 
@@ -39,10 +52,25 @@ Subnet
     - A gateway that allows instance to connect to the internet.
 
 * Customer Gateway/VPN Connection/Virtual Private Gateway
+    - To establish a VPN connection all three mwntioned components need to be work together.
+    - Customer Gateway is router in organization premises.
+    - On AWS side private virtual gateway is used to establish connection.
+    - So, to connect a VPN connection there will be two endpoints one is Customer gateway and another is virtual private gateway.
     - 
 
-    
+* VPC Peering
+    - When we connect to VPC's togeather
 
+* VPC Endpoints
+    - connectivity to talk to any AWS services privately.
+    - Benefit is data don't travelled through internet.
+
+* NAT gateway
+    - Only allow outbound connection and reply on the same connection.
+
+    
+**References**
+    - https://www.youtube.com/watch?v=LX5lHYGFcnA
 
 
 
