@@ -1,7 +1,15 @@
 What is SNS?
     - Message publishing and processing service (PubSub)
     - Allows Fanout to millions of consumers (Email, Http/s, SQS, Texting etc.)
-    - 
+    - Fully managed and durable with automatic scaling.
+    - Consists of topics and subscriptions.
+    - Application to person or application to application
+
+Two Types
+    - There are two types of models.
+        * Application to Person
+        * Application to Apllication
+
 
 >>>>>>>>>>>> Inprogress
 
