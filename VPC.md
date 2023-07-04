@@ -73,11 +73,10 @@
 
 * VPC Peering
     - When we connect to VPC's togeather
-
 <br>
 
 * VPC Endpoints
-    - connectivity to talk to any AWS services privately.
+    - Connectivity to talk to any AWS services privately.
     - Benefit is data don't travelled through internet.
 
 <br>
@@ -87,7 +86,9 @@
 
     
 **References**
-    - https://www.youtube.com/watch?v=LX5lHYGFcnA
+===============
+* [AWS Networking Masterclass - VPC](https://www.youtube.com/watch?v=LX5lHYGFcnA)
+* [Keep Your Network Traffic in AWS with VPC Endpoints | Overview and Tutorial](https://www.youtube.com/watch?v=jo3X_aay4Vs)
 
 
 
